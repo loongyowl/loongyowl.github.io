@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Loongyowl Blog
+SEOTitle: 龙吟的博客 | loongyowl Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: huangju7231@126.com
+description: "明白江山烟花事 落叶任风添飘情"
+keyword: "joe黄的思考, Loonyowl Blog, 龙吟的博客, Buddha, 龙吟, 企业管理, 心理学, NLP教练"
+url: "http://loongyowl.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/loongyowl/loongyowl.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "明白江山烟花事 落叶任风添飘情"
+sidebar-avatar: /img/huangju1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:   loongyowl
+zhihu_username:     joehuang331
+github_username:    loongyowl
+facebook_username:  loongyowl
+jianshu_username:   9575d17160ef
+#twitter_username:  loongyowl
 
 
 
@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: loongyowl.github.io    #仓库名称
+  owner: loongyowl    #github用户名
+  admin: loongyowl
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "格鲁修学社区",
+        href: "http://www.gelupa.org/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "W3C·践行群中的思考",
+        href: "https://w3c.group/g/1124570"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "GitHub·李笑来",
+        href: "https://github.com/xiaolai/xiaolai.github.io"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "版权：CC BY-NC-ND 4.0",
+        href: "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"
     }
 ]

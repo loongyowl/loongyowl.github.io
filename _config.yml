@@ -1,9 +1,9 @@
 # Site settings
-title: Loongyowl Blog
+title: Loongyowl  Blog
 SEOTitle: 龙吟的博客 | loongyowl Blog
 header-img: img/post-bg-desk.jpg
 email: huangju7231@126.com
-description: "明白江山烟花事 落叶任风添飘情"
+description: "loongyowl's blog, About philosophy, psychology, business management and digitization"
 keyword: "joe黄的思考, Loonyowl Blog, 龙吟的博客, Buddha, 龙吟, 企业管理, 心理学, NLP教练"
 url: "http://loongyowl.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: loongyowl.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 

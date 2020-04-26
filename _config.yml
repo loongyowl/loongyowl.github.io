@@ -67,6 +67,7 @@ gitalk:
   repo: loongyowl.github.io    #仓库名称
   owner: loongyowl    #github用户名
   admin: loongyowl
+  id: decodeURI(window.location.pathname).split("/").pop().substring(0, 49),
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 

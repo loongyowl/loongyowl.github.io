@@ -4,7 +4,7 @@ title:      Git及github的中文简体学习资料
 subtitle:   学习资料存档
 date:       2020-04-20
 author:     loongyowl
-header-img: img/ouyang_jingwu.jpg
+header-img: img/post-bg-debug.jpg
 catalog: true
 tags:
     - 编程

@@ -1,6 +1,6 @@
 # Site settings
 title: 龙吟的博客
-SEOTitle: 龙吟的博客 | Loongyowl.com
+SEOTitle: 龙吟的博客 | Loongyowl 
 header-img: img/post-bg-desk.jpg
 email: huangju7231@126.com
 description: "loongyowl's blog, About philosophy, psychology, business management and digitization"
@@ -106,7 +106,7 @@ friends: [
         href: "https://w3c.group/g/1124570"
     },{
         title: "我的qq空间",
-        href: "https://https://user.qzone.qq.com/315856601/main"
+        href: "https://user.qzone.qq.com/315856601/main"
     },{
         title: "版权：CC BY-NC-ND 4.0",
         href: "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"

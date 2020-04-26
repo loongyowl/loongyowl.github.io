@@ -1,7 +1,13 @@
 ---
-layout: post
-title: 圣言量
-tags: [圣言]
+layout:     post
+title:      圣言量
+subtitle:   依法不依人
+date:       2020-04-26
+author:     loongyowl
+header-img: img/fo.jpg
+catalog: true
+tags:
+    - 佛法与禅修
 ---
 
 这一篇文章是关于佛法中的“圣言”。

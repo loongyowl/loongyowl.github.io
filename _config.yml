@@ -1,10 +1,10 @@
 # Site settings
 title: 龙吟的博客
-SEOTitle: 龙吟的博客 | loongyowl Blog
+SEOTitle: 龙吟的博客 | Loongyowl.com
 header-img: img/post-bg-desk.jpg
 email: huangju7231@126.com
 description: "loongyowl's blog, About philosophy, psychology, business management and digitization"
-keyword: "joe黄的思考, Loonyowl Blog, 龙吟的博客, Buddha, 龙吟, 企业管理, 心理学, NLP教练"
+keyword: "joe黄的思考, Loonyowl, 龙吟的博客, Buddha, 龙吟, 企业管理, 心理学, NLP教练, 地产策划，营销策划，商业程序"
 url: "http://loongyowl.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/loongyowl/loongyowl.github.io.git" # you code repository
@@ -78,7 +78,7 @@ ba_track_id: 0ddcb555c2770268f6c4660246653ff6
 
 # Google Analytics
 ga_track_id: 'UA-164528890-1'            # Format: UA-xxxxxx-xx
-ga_domain: loongyowl.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: loongyowl.com                 # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -86,7 +86,7 @@ ga_domain: loongyowl.com               # 默认的是 auto, 这里我是自定�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 5              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -105,8 +105,8 @@ friends: [
         title: "W3C·践行群中的思考",
         href: "https://w3c.group/g/1124570"
     },{
-        title: "GitHub·李笑来",
-        href: "https://github.com/xiaolai/xiaolai.github.io"
+        title: "我的qq空间",
+        href: "https://https://user.qzone.qq.com/315856601/main"
     },{
         title: "版权：CC BY-NC-ND 4.0",
         href: "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"

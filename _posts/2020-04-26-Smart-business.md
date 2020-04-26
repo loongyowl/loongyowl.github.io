@@ -4,7 +4,7 @@ title:      智能商业二十讲
 subtitle:   曾明教授
 date:       2020-04-26
 author:     loongyowl
-header-img: img/Smart_business.jpg
+header-img: img/post-bg-os-metro.jpg
 catalog: true
 tags:
     - 商业

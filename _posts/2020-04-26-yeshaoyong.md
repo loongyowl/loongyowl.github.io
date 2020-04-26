@@ -37,3 +37,5 @@ tags:
 这其中的关键在于，要明确诸法与自性和名言之间的关系：诸法要么就是自性，要么就是名言，要么既是自性又是名言，要么既不是自性又不是名言。
 
 所以诸法如果是自性，那就破坏了因果；如果诸法即是自性又是名言，那同样破坏因果；而既不是自性又不是名言，那将无法安立诸法；所以最后诸法只能是名言，而且仅仅只是名言，除名言以外，无一丝一毫的存在。
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。

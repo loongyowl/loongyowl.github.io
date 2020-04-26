@@ -7,8 +7,8 @@ author:     loongyowl
 header-img: img/yshaoyong.jpg
 catalog: true
 tags:
-    - 商业
-    - 智能
+    - 佛法与禅修
+    - 中观
 
 ---
 

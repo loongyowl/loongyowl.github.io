@@ -46,6 +46,8 @@ tags:
 
 
 
+![](https://raw.githubusercontent.com/loongyowl/loongyowl.github.io/master/img/WeChat_public.jpg)
+
 ----
 
 

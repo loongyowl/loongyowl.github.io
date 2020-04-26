@@ -2117,7 +2117,7 @@ A:  其实像大家一样，我也被这个问题深深地困惑，而且还必�
 
 以下为《智能商业》全书提纲
 
-![](https://github.com/loongyowl/loongyowl.github.io/blob/master/img/Smart_business.JPG)
+![](https://raw.githubusercontent.com/loongyowl/loongyowl.github.io/master/img/Smart_business.JPG)
 
 #  智能商业
 

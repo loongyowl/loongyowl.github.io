@@ -14,8 +14,7 @@ tags:
 
 
 
-<iframe height=600 width=800 src="https://wg.isdot.net/api/un/img?key=user-upload/12123870/c935456d667dc514.gif">
-
+![佛法作图.gif](https://wg.isdot.net/api/un/img?key=user-upload/12123870/c935456d667dc514.gif)
 
 
 

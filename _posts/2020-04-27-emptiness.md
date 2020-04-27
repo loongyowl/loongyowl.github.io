@@ -28,10 +28,7 @@ tags:
 
 
 
-
-
-
-![WeChat_public.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/e6b6a3e9dff7c551.jpg)
+![龙吟的二维码.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/c93f436334fef4a1.jpg)
 
 ----
 

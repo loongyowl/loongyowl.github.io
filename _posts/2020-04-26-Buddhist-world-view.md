@@ -130,9 +130,7 @@ tags:
 
 最后，关于修净土，要在**大乘菩提心的摄持下来念佛，而且要理解去净土也是为了更好地学习空性慧和菩萨的广行，以圆满佛道**。基于这样的认识来念佛和修净土，应该会有一个好的往生与去处。
 
-
-
-![WeChat_public.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/e6b6a3e9dff7c551.jpg)
+![龙吟的二维码.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/c93f436334fef4a1.jpg)
 
 ------
 

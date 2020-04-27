@@ -46,10 +46,12 @@ tags:
 
 
 
-![](https://raw.githubusercontent.com/loongyowl/loongyowl.github.io/master/img/WeChat_public.jpg)
+![WeChat_public.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/e6b6a3e9dff7c551.jpg)
 
-----
+------
 
-![](https://raw.githubusercontent.com/loongyowl/loongyowl.github.io/master/img/licenses.png)
 
-本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
+
+![licenses.png](https://wg.isdot.net/api/un/img?key=user-upload/12123870/d07ca65285ba7ca1.png)
+
+本作品采用[知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/)进行许可。

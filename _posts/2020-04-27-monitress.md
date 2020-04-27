@@ -4,7 +4,7 @@ title:      女班长
 subtitle:   一切成就皆应断除这三种障碍
 date:       2020-04-27
 author:     loongyowl
-header-img: img/monitress.jpg
+header-img: img/monitress.JPG
 catalog: true
 tags:
     - 思考

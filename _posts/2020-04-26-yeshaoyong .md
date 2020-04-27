@@ -40,9 +40,7 @@ tags:
 
 **所以诸法如果是自性，那就破坏了因果；如果诸法即是自性又是名言，那同样破坏因果；而既不是自性又不是名言，那将无法安立诸法；所以最后诸法只能是名言，而且仅仅只是名言，除名言以外，无一丝一毫的存在。**
 
-
-
-![WeChat_public.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/e6b6a3e9dff7c551.jpg)
+![龙吟的二维码.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/c93f436334fef4a1.jpg)
 
 ----
 

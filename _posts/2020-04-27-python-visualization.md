@@ -28,6 +28,10 @@ tags:
 
 这个网站在国内的运行比较慢，但开源代码在其[Github](https://github.com/loongyowl/OnlinePythonTutor)上，大家可以直接Fork到本地用就行了，其文档中有详细说明。
 
+还有人做了[视频解说](https://www.ixigua.com/i6818868273132601860/)，这太棒了！大家可以自己看。
+
+
+
 ![WeChat_public.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/e6b6a3e9dff7c551.jpg)
 
 ----

@@ -4,7 +4,7 @@ title:      学习叶少勇所说的空观
 subtitle:   中观正见
 date:       2020-04-26
 author:     loongyowl
-header-img: img/yshaoyong.jpg
+header-img: img/longshu.jpg
 catalog: true
 tags:
     - 佛法与禅修

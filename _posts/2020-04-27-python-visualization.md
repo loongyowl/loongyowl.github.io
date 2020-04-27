@@ -2,7 +2,7 @@
 layout:     post
 title:      Python编程学习的代码可视化
 subtitle:   初学者适用
-date:       2020-04-27
+date:       2020-04-25
 author:     loongyowl
 header-img: img/post-bg-debug.JPG
 catalog: true
@@ -32,7 +32,7 @@ tags:
 
 
 
-![WeChat_public.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/e6b6a3e9dff7c551.jpg)
+![龙吟的二维码.jpg](https://wg.isdot.net/api/un/img?key=user-upload/12123870/c93f436334fef4a1.jpg)
 
 ----
 

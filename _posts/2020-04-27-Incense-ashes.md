@@ -6,7 +6,6 @@ date:       2020-04-27
 author:     loongyowl
 header-img: img/lncense-ashes.png
 catalog: true
-top: true
 tags:
     - 佛法与禅修
     - 故事

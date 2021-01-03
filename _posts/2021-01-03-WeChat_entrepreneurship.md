@@ -2,7 +2,7 @@
 layout:     post
 title:      微信互联网贫民创业
 subtitle:   个人媒体
-date:       2022-01-03
+date:       2021-01-03
 author:     李笑来文章摘录
 header-img: img/Wechat_entrepreneurship.jpg
 catalog: true

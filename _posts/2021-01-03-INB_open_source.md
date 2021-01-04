@@ -1,16 +1,19 @@
 ---
 layout:     post
 title:      INB 开源投资原则
-subtitle:   有意义的区块链应用
+subtitle:   李笑来文章摘录
 date:       2021-01-03
-author:     李笑来文章摘录
+author:     作者：李笑来
 header-img: 
 catalog: true
 tags:
     - 学习
-   
-
+  
 ---
+
+下文为李笑来公开文章摘录：
+
+
 
 \1. ICO 是什么？
 

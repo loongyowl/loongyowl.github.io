@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      微信互联网贫民创业
-subtitle:   个人媒体
+subtitle:   李笑来文章摘录
 date:       2021-01-03
-author:     李笑来文章摘录
+author:     作者：李笑来
 header-img: img/Wechat_entrepreneurship.jpg
 catalog: true
 tags:
@@ -11,6 +11,8 @@ tags:
    
 
 ---
+
+下文为李笑来公开文章摘录：
 
 ## 0. 关于直播的一些说明
 

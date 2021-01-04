@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      人生的终极问题到底是什么？
-subtitle:   这可能取决于你认为什么最重要？
+subtitle:   李笑来文章摘录
 date:       2021-01-03
-author:     李笑来文章摘录
+author:     作者：李笑来
 header-img: 
 catalog: true
 tags:
@@ -11,6 +11,8 @@ tags:
    
 
 ---
+
+下文为李笑来公开文章摘录：
 
 我在长大的过程中，听说人生的终极问题是：
 
